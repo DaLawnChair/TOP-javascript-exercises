@@ -12,8 +12,7 @@ const removeFromArray = function(original)
                 copy.splice(j,1);
                 break;
             }
-        }
-    
+        }   
     }
     return copy;
 };
