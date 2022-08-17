@@ -13,7 +13,7 @@ const removeFromArray = function(original)
                 break;
             }
         }
-        
+    
     }
     return copy;
 };
